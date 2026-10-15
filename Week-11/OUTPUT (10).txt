@@ -1,0 +1,3 @@
+FILE_CREATED: sortlab_snapshot.csv
+ROWS_READ: 3
+FILE_CHECK: PASS
